@@ -1,0 +1,21 @@
+body{
+    background-color: whitesmoke;
+}
+h1{
+ color: rgb(141, 16, 0);
+ border:2px solid rgb(0, 0, 0);
+}
+#devfront{
+    font-size: x-large;
+    color: black;
+}
+.eng-soft{
+    color:black;
+    font-size: x-large;
+}
+p{
+    font-size: x-large;
+}
+HTML{
+    text-align: center;
+}
